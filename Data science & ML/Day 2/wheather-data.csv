@@ -1,0 +1,5 @@
+day,temperature,,windspeed,event
+01-12-2023,32,,6,rain
+01/13/2023,35,,7,sunny
+01/14/2023,45,,2,snow
+01/15/2023,48,,4,nan
